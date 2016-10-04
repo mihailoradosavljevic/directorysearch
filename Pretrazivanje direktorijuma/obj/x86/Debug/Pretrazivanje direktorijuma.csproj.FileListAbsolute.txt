@@ -1,0 +1,5 @@
+F:\VSTUDIO\CSHARP\Pretrazivanje direktorijuma\Pretrazivanje direktorijuma\bin\Debug\Pretrazivanje direktorijuma.exe
+F:\VSTUDIO\CSHARP\Pretrazivanje direktorijuma\Pretrazivanje direktorijuma\bin\Debug\Pretrazivanje direktorijuma.pdb
+F:\VSTUDIO\CSHARP\Pretrazivanje direktorijuma\Pretrazivanje direktorijuma\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VSTUDIO\CSHARP\Pretrazivanje direktorijuma\Pretrazivanje direktorijuma\obj\x86\Debug\Pretrazivanje direktorijuma.exe
+F:\VSTUDIO\CSHARP\Pretrazivanje direktorijuma\Pretrazivanje direktorijuma\obj\x86\Debug\Pretrazivanje direktorijuma.pdb
